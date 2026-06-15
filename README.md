@@ -26,7 +26,7 @@ class Dev:
     missao      = "Forjar sistemas do zero, do bit ao deploy"
     origem      = "Brasil 🇧🇷"
     foco_atual  = ["C", "Python", "IA aplicada", "Linux"]
-    proximo_boss = ["minishell", "piscine python", "RAG against the machine"]
+    proximo_boss = ["piscine python", "codexion", "RAG against the machine"]
 ```
 
 > Estudante da **42 São Paulo** na trilha nova — aquela que vai do `libft` em C  
@@ -81,7 +81,7 @@ class Dev:
 ## `> skills --tree`
 
 ```
-PALADINO CAVALEIRO — Árvore de Habilidades
+YuuheKurenai — Árvore de Habilidades
 │
 ├── 🛡️  SISTEMAS & BAIXO NÍVEL            [████████░░] Básico → Intermediário
 │   ├── C (ponteiros, malloc, structs, fd)
@@ -139,8 +139,6 @@ PALADINO CAVALEIRO — Árvore de Habilidades
 
 | Projeto | Categoria | Stack | Status |
 |---|---|---|---|
-| 🐚 **minishell** | Sistemas | `C` | 🔒 |
-| 🧵 **philo** | Concorrência | `C` | 🔒 |
 | 🔗 **codexion** | Concorrência | `Python` | 🔒 |
 | 🚀 **fly in** | Algoritmos | `Python` | 🔒 |
 | 🧠 **call me maybe** | IA | `Python` | 🔒 |
@@ -175,7 +173,7 @@ PALADINO CAVALEIRO — Árvore de Habilidades
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuuhekurenai&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0018&title_color=cc44ff&icon_color=9933cc&text_color=bb88dd"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuuhekurenai&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d0018&title_color=cc44ff&icon_color=9933cc&text_color=bb88dd"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuhekurenai&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0018&title_color=cc44ff&text_color=bb88dd"/>
 
@@ -206,7 +204,7 @@ PALADINO CAVALEIRO — Árvore de Habilidades
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://br.linkedin.com/in/gabriel-celestino-a044b2170)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-celestino-a044b2170)
 [![42 São Paulo](https://img.shields.io/badge/42_São_Paulo-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile-v3.intra.42.fr/users/gcelesti)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuuhekurenai)
 
@@ -217,8 +215,8 @@ PALADINO CAVALEIRO — Árvore de Habilidades
 <div align="center">
 
 ```
-"A norminette rejeita. O valgrind vaza. O minishell segfaulta.
-O RAG alucina. E mesmo assim, você commita."
+"O valgrind vaza. O RAG alucina. A norminette rejeita.
+E mesmo assim, você commita."
 ```
 
 *— Todo estudante da 42, às 3h da manhã*
