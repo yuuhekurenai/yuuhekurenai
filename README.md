@@ -195,7 +195,7 @@ PALADINO CAVALEIRO — Árvore de Habilidades
 + [MISSÃO ATIVA]   piscine python — dominando POO e algoritmos em Python
 + [MISSÃO ATIVA]   consolidando libft, gnl e ft_printf
 + [EXPLORAÇÃO]     LLMs locais com Ollama — preparando terreno para o RAG
-- [BOSS FUTURO]    minishell — construir um shell do zero em C
+- [BOSS FUTURO]    codexion — concorrência em Python
 - [BOSS FUTURO]    RAG against the machine — IA generativa aplicada
 - [BOSS FINAL]     transcendance — projeto web full-stack multiplayer
 ```
@@ -206,8 +206,8 @@ PALADINO CAVALEIRO — Árvore de Habilidades
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![42 São Paulo](https://img.shields.io/badge/42_São_Paulo-000000?style=for-the-badge&logo=42&logoColor=white)](https://www.42sp.org.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://br.linkedin.com/in/gabriel-celestino-a044b2170)
+[![42 São Paulo](https://img.shields.io/badge/42_São_Paulo-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile-v3.intra.42.fr/users/gcelesti)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuuhekurenai)
 
 </div>
