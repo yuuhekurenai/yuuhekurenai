@@ -20,7 +20,7 @@
 
 ```python
 class Dev:
-    nome        = "Seu Nome"               # troque aqui
+    nome        = "Gabriel Celestino"             
     escola      = "42 São Paulo"
     trilha      = "Novo Tronco Commun — Python"
     missao      = "Forjar sistemas do zero, do bit ao deploy"
