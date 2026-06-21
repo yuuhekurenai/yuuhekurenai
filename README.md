@@ -1,224 +1,120 @@
 <div align="center">
 
-![Paladino Cavaleiro](paladin-dark.svg)
+<h1>Gabriel Celestino</h1>
+<h3>Desenvolvedor em Formação · 42 São Paulo</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-celestino-a044b2170)
+[![42 Intra](https://img.shields.io/badge/42_Intra-gcelesti-000000?style=flat-square&logo=42&logoColor=white)](https://profile-v3.intra.42.fr/users/gcelesti)
+[![GitHub](https://img.shields.io/badge/GitHub-yuuhekurenai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yuuhekurenai)
 
 </div>
 
 ---
 
-<div align="center">
+## Sobre mim
 
-```
-⚔️  Em meio à escuridão e ao caos, ele forja seu código linha por linha.  ⚔️
-```
+Estudante de desenvolvimento de software na **42 São Paulo**, escola de tecnologia reconhecida globalmente pelo método peer-to-peer — sem professores, sem aulas, 100% baseada em projetos práticos e colaboração entre alunos.
 
-</div>
+Tenho base sólida em **C e Linux**, com crescente experiência em **Python** e interesse em backend, infraestrutura e inteligência artificial aplicada. Busco minha primeira oportunidade como **desenvolvedor júnior ou estagiário** para aplicar o que aprendo na prática e continuar evoluindo.
 
----
-
-## `> whoami`
-
-```python
-class Dev:
-    nome        = "Gabriel Celestino"             
-    escola      = "42 São Paulo"
-    trilha      = "Novo Tronco Commun — Python"
-    missao      = "Forjar sistemas do zero, do bit ao deploy"
-    origem      = "Brasil 🇧🇷"
-    foco_atual  = ["C", "Python", "IA aplicada", "Linux"]
-    proximo_boss = ["piscine python", "codexion", "RAG against the machine"]
-```
-
-> Estudante da **42 São Paulo** na trilha nova — aquela que vai do `libft` em C  
-> até **IA generativa** e **RAG** passando por POO, gráficos e DevOps.  
-> Sem professores. Sem aulas. Só código, peer review e muita resiliência.  
-> Cada projeto zerado é uma dungeon a menos entre mim e o próximo milestone.
+> 📍 Brasil &nbsp;·&nbsp; 🎓 42 São Paulo — Novo Tronco Commun (trilha Python) &nbsp;·&nbsp; 💼 Aberto a oportunidades
 
 ---
 
-## `> inventory --weapons`
+## Habilidades Técnicas
 
-### ⚔️ Armas Principais
+**Linguagens**
 
-<div align="center">
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+**Frameworks & Ferramentas**
 
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🗡️ Armas Secundárias
+**Ambiente & Versionamento**
 
-<div align="center">
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+**Explorando atualmente**
 
-</div>
-
-### 🔮 Magias em Aprendizado
-
-<div align="center">
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-</div>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
 
-## `> skills --tree`
+## Formação — 42 São Paulo
 
-```
-YuuheKurenai — Árvore de Habilidades
-│
-├── 🛡️  SISTEMAS & BAIXO NÍVEL            [████████░░] Básico → Intermediário
-│   ├── C (ponteiros, malloc, structs, fd)
-│   ├── Makefile & bibliotecas estáticas (.a)
-│   ├── Debug com Valgrind
-│   └── Norminette
-│
-├── 🐍  PYTHON & POO                      [█████░░░░░] Básico → Intermediário
-│   ├── Python 3
-│   ├── Orientação a Objetos
-│   ├── Django · Flask
-│   └── Scripts e automações
-│
-├── 🐧  LINUX & INFRA                     [███████░░░] Básico → Intermediário
-│   ├── Terminal, permissões, pipes, processos
-│   ├── Docker & Docker Compose
-│   ├── WSL
-│   └── DevOps (inception)
-│
-├── 🌐  WEB & BACKEND                     [████░░░░░░] Básico
-│   ├── JavaScript · React · Vite
-│   ├── PHP · Laravel
-│   ├── C# (contato inicial)
-│   └── MySQL
-│
-└── 🤖  INTELIGÊNCIA ARTIFICIAL           [███░░░░░░░] Iniciante → Básico
-    ├── LLMs & modelos locais (Ollama)
-    ├── RAG (Retrieval-Augmented Generation)
-    ├── Claude · Cline
-    └── Interesse: PyTorch · LangGraph · FastAPI · HuggingFace
-```
+A 42 é uma escola de programação com metodologia única: aprendizado por projetos reais, avaliação entre pares e autonomia total. Sem professores, sem horários — apenas código e responsabilidade.
 
----
-
-## `> ls ./42sp/cursus/`
-
-### 🏁 Milestone 1 — Fundamentos
-
-| Projeto | Categoria | Stack | Status |
+| Projeto | Descrição | Stack | Status |
 |---|---|---|---|
-| ⚙️ **libft** | Base | `C` | ✅ |
-| 📜 **get_next_line** | Base | `C` | ✅ |
-| 🖨️ **ft_printf** | Base | `C` | ✅ |
-| 🔀 **push_swap** | Algoritmos | `C` | ✅ |
+| **libft** | Biblioteca padrão C reimplementada do zero | `C` | ✅ Concluído |
+| **get_next_line** | Leitura eficiente de arquivos linha por linha | `C` | ✅ Concluído |
+| **ft_printf** | Recriação do printf com funções variádicas | `C` | ✅ Concluído |
+| **push_swap** | Ordenação com pilhas e algoritmos de complexidade mínima | `C` | ✅ Concluído |
+| **piscine python** | POO, algoritmos e estruturas de dados em Python | `Python` | 🔄 Em andamento |
+| **a maze ing** | Geração e resolução de labirintos | `Python` | 🔒 |
+| **codexion** | Programação concorrente | `Python` | 🔒 |
+| **fly in** | Algoritmos avançados | `Python` | 🔒 |
+| **call me maybe** | Introdução à IA | `Python` | 🔒 |
+| **pacman** | Desenvolvimento de jogo com IA | `Python` | 🔒 |
+| **RAG against the machine** | IA generativa com RAG | `Python` | 🔒 |
+| **inception** | Infraestrutura com Docker e containers | `Docker` | 🔒 |
+| **the answer protocol** | Redes e protocolos | `Python` | 🔒 |
+| **agent smith** | Agentes de IA | `Python` | 🔒 |
+| **transcendance** | Aplicação web full-stack multiplayer | `Full Stack` | 🔒 |
 
-### ⚔️ Milestone 2
-
-| Projeto | Categoria | Stack | Status |
-|---|---|---|---|
-| 🐍 **piscine python** | POO | `Python` | 🔥 |
-| 🌀 **a maze ing** | Gráficos | `Python` | 🔒 |
-| 📦 **B2BR** | Base | `C` | 🔒 |
-
-### 🏰 Milestone 3
-
-| Projeto | Categoria | Stack | Status |
-|---|---|---|---|
-| 🔗 **codexion** | Concorrência | `Python` | 🔒 |
-| 🚀 **fly in** | Algoritmos | `Python` | 🔒 |
-| 🧠 **call me maybe** | IA | `Python` | 🔒 |
-
-### 🐉 Milestone 4
-
-| Projeto | Categoria | Stack | Status |
-|---|---|---|---|
-| 🎮 **mini_rt / cub3d** | Gráficos | `C` | 🔒 |
-| ➕ **CPP 00-04** | POO | `C++` | 🔒 |
-| 🌐 **net practice** | Redes | `—` | 🔒 |
-| 🕹️ **pacman** | Gráficos | `Python` | 🔒 |
-| 🤖 **RAG against the machine** | IA | `Python` | 🔒 |
-
-### 🔱 Milestone 5 — Endgame
-
-| Projeto | Categoria | Stack | Status |
-|---|---|---|---|
-| 🖧 **irc / webserv** | Redes | `C++` | 🔒 |
-| ➕ **CPP 05-09** | POO | `C++` | 🔒 |
-| 🐳 **inception** | DevOps | `Docker` | 🔒 |
-| 🌍 **the answer protocol** | Redes | `Python` | 🔒 |
-| 🕵️ **agent smith** | IA | `Python` | 🔒 |
-| 🌐 **transcendance** | Web | `Full Stack` | 🔒 |
-
-> `✅ Completo` · `🔥 Em progresso` · `🔒 Locked`  
-> **57 semanas · 2000 horas · Nível 10→11.80**
+> Curso estimado em **57 semanas** e **2000 horas** de trabalho prático.
 
 ---
 
-## `> status --github`
+## Estatísticas GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuuhekurenai&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d0018&title_color=cc44ff&icon_color=9933cc&text_color=bb88dd"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yuuhekurenai&show_icons=true&theme=default&count_private=true&hide_border=false&title_color=0077b5&icon_color=0077b5"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuhekurenai&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0018&title_color=cc44ff&text_color=bb88dd"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yuuhekurenai&theme=midnight-purple&hide_border=true&background=0D0018&ring=CC44FF&fire=FF44AA&currStreakLabel=CC44FF)](https://git.io/streak-stats)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuhekurenai&layout=compact&theme=default&hide_border=false&title_color=0077b5"/>
 
 </div>
 
 ---
 
-## `> current_quest`
+## O que estou aprendendo agora
 
-```diff
-+ [MISSÃO ATIVA]   piscine python — dominando POO e algoritmos em Python
-+ [MISSÃO ATIVA]   consolidando libft, gnl e ft_printf
-+ [EXPLORAÇÃO]     LLMs locais com Ollama — preparando terreno para o RAG
-- [BOSS FUTURO]    codexion — concorrência em Python
-- [BOSS FUTURO]    RAG against the machine — IA generativa aplicada
-- [BOSS FINAL]     transcendance — projeto web full-stack multiplayer
-```
+- Aprofundando **Python** com foco em POO e estruturas de dados
+- Estudando **LLMs e RAG** com Ollama e LangChain
+- Explorando **Docker** e conceitos de infraestrutura
+- Praticando **algoritmos** para entrevistas técnicas
 
 ---
 
-## `> contact --portal`
+## Contato
+
+Estou em busca de oportunidades como **desenvolvedor júnior ou estagiário**. Se você tem uma vaga ou quer trocar uma ideia sobre tecnologia, pode me chamar!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-celestino-a044b2170)
-[![42 São Paulo](https://img.shields.io/badge/42_São_Paulo-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile-v3.intra.42.fr/users/gcelesti)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuuhekurenai)
+[![LinkedIn](https://img.shields.io/badge/Falar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-celestino-a044b2170)
+[![Email](https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-"O valgrind vaza. O RAG alucina. A norminette rejeita.
-E mesmo assim, você commita."
-```
-
-*— Todo estudante da 42, às 3h da manhã*
-
+<sub>Feito com dedicação · 42 São Paulo · <i>"não é sobre saber tudo, é sobre nunca parar de aprender."</i></sub>
 </div>
